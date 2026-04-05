@@ -19,6 +19,8 @@ Instead of static wishes, users get a **fun, emotional, and engaging experience*
 
 ## 🎬 Demo Preview
 
+> https://pasppy.github.io/fluffySuccotash/
+
 ![Preview 1](./assets/preview1.png)
 ![Preview 2](./assets/preview2.png)
 
