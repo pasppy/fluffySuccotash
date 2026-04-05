@@ -19,10 +19,8 @@ Instead of static wishes, users get a **fun, emotional, and engaging experience*
 
 ## 🎬 Demo Preview
 
-```md
-![Preview 1](./assets/images/flags.png)
-![Preview 2](./assets/images/bd-text.png)
-```
+![Preview 1](./assets/preview1.png)
+![Preview 2](./assets/preview2.png)
 
 ---
 
